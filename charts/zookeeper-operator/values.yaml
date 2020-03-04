@@ -19,3 +19,6 @@ serviceAccount:
 # Whether to create custom resource
 crd:
   create: true
+
+# List of namespaces to watch resources in
+#namespaces: "ns1,ns2,ns3"
